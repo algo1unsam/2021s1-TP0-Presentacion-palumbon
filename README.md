@@ -1,6 +1,10 @@
 # Presentación
 
-## Estudiante: _COMPLETAR CON TU NOMBRE_
+## Estudiante: Nahuel Palumbo
+
+Soy docente de programación en UNSAM, UNQ y UTN. Hoy comí milanesas y estoy contento.
+
+------
 
 Esta práctica está pensada para ir familiarizándose con la plataforma de GitHub, herramienta que vamos a estar usando para las entregas de TPs.
 
